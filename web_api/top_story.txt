@@ -1,0 +1,500 @@
+{'title': "Builder's Remedy goes into effect in many California cities tomorrow", 'url': 'https://darrellowens.substack.com/p/ca-cities-to-lose-all-zoning-powers', 'comment': 1212}
+{'title': 'Do we live in a society without a counterculture?', 'url': 'https://www.xmodtwo.com/p/do-we-live-in-a-society-without-a', 'comment': 867}
+{'title': 'ChatGPT Plus', 'url': 'https://openai.com/blog/chatgpt-plus/', 'comment': 742}
+{'title': 'Rewrite it in Rust', 'url': 'https://github.com/fish-shell/fish-shell/pull/9512', 'comment': 460}
+{'title': 'Why Finland Selected the F-35A (2021)', 'url': 'https://corporalfrisk.com/2021/12/11/f-35a-is-hx-the-winner-takes-it-all/', 'comment': 420}
+{'title': 'Japanese explained to programmers', 'url': 'https://lajili.com/posts/post-1/', 'comment': 385}
+{'title': 'Ask HN: Who is hiring? (February 2023)', 'url': 'None', 'comment': 381}
+{'title': 'Instagram’s co-founders are back with Artifact, a kind of TikTok for text', 'url': 'https://www.theverge.com/2023/1/31/23579552/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app', 'comment': 368}
+{'title': 'I want to lose every debate', 'url': 'https://sive.rs/led', 'comment': 358}
+{'title': 'Is remote work bad for the economy?', 'url': 'https://www.fractional.work/p/is-remote-work-bad-for-the-economy', 'comment': 342}
+{'title': '“In roughly two hours, 1647 devices are about to be wiped”', 'url': 'https://infosec.exchange/@SecurityWriter/109777576538835360', 'comment': 339}
+{'title': 'New AI classifier for indicating AI-written text', 'url': 'https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/', 'comment': 335}
+{'title': 'Reducing technical debt by valuing comments as much as code', 'url': 'https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt', 'comment': 328}
+{'title': 'Is AM radio dead?', 'url': 'https://www.jeffgeerling.com/blog/2023/am-radio-dead', 'comment': 320}
+{'title': 'Firefighters forced to smash window of driverless Cruise taxi to stop it', 'url': 'https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1', 'comment': 316}
+{'title': 'Ask HN: How do you test SQL?', 'url': 'None', 'comment': 305}
+{'title': 'Insulation: First the body, then the home (2011)', 'url': 'https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html', 'comment': 301}
+{'title': 'Easter egg in flight path of last 747 delivery flight', 'url': 'https://www.flightradar24.com/GTI747/2f0b1162', 'comment': 300}
+{'title': 'How likely is losing a Google account?', 'url': 'https://www.jefftk.com/p/how-likely-is-losing-a-google-account', 'comment': 293}
+{'title': 'Ask HN: Who wants to be hired? (February 2023)', 'url': 'None', 'comment': 293}
+{'title': 'UK expected to be only major economy to shrink in 2023 – IMF', 'url': 'https://www.bbc.co.uk/news/business-64452995', 'comment': 284}
+{'title': 'Virtual DOM is pure overhead (2018)', 'url': 'https://svelte.dev/blog/virtual-dom-is-pure-overhead', 'comment': 280}
+{'title': 'Intel Cuts Employee Pay to Maintain Quarterly Dividend', 'url': 'https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep', 'comment': 279}
+{'title': 'Extracting training data from diffusion models', 'url': 'https://arxiv.org/abs/2301.13188', 'comment': 278}
+{'title': 'Tell HN: GitHub will delete your private repo if you lose access to the original', 'url': 'None', 'comment': 273}
+{'title': "Ask HN: What's the best lecture series you've seen?", 'url': 'None', 'comment': 265}
+{'title': 'Why are online recipes so long-winded?', 'url': 'https://jjpryor.substack.com/p/why-are-online-recipes-always-so', 'comment': 251}
+{'title': "Cosmic DE update: System76's new Linux desktop environment", 'url': 'https://blog.system76.com/post/more-on-cosmic-de-to-kick-off-2023/', 'comment': 251}
+{'title': 'J&J can’t use bankruptcy to resolve talc-injury lawsuits, appeals court rules', 'url': 'https://www.wsj.com/articles/j-js-talc-bankruptcy-case-thrown-out-by-appeals-court-11675096308', 'comment': 251}
+{'title': 'Spotify is first music streaming service to surpass 200M paid subscribers', 'url': 'https://www.theverge.com/2023/1/31/23577499/spotify-q4-2022-earnings-release-subscriber-growth-layoffs', 'comment': 250}
+{'title': 'Sharing Your Netflix Account', 'url': 'https://help.netflix.com/en/node/123277', 'comment': 249}
+{'title': 'Amazon to sell Bay Area office complex as sales growth cools', 'url': 'https://www.msn.com/en-us/money/companies/amazon-to-sell-bay-area-office-complex-as-sales-growth-cools/ar-AA16M4Pp', 'comment': 237}
+{'title': 'How we plan to de-extinct the Dodo bird', 'url': 'https://colossal.com/dodo/', 'comment': 236}
+{'title': 'Git archive checksums may change', 'url': 'https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/', 'comment': 236}
+{'title': 'Meta Reports Fourth Quarter and Full Year 2022 Results', 'url': 'https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx', 'comment': 233}
+{'title': 'Missing radioactive capsule found in WA outback after frantic search', 'url': 'https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828', 'comment': 232}
+{'title': 'Pakistani gov degrades Wikipedia connections due to blasphemy', 'url': 'https://www.pta.gov.pk/en/media-center/single-media/wikipedia-services-degraded-over-unlawful-content-010223', 'comment': 225}
+{'title': 'I lost $209k of my own money trying to start a business', 'url': 'https://www.mostlymetrics.com/p/i-lost-209640-of-my-own-money-trying', 'comment': 222}
+{'title': 'The limits of "computational photography"', 'url': 'https://yager.io/comp/comp.html', 'comment': 218}
+{'title': 'Stripe increases fees for EU and UK-based businesses in April', 'url': 'https://support.stripe.com/questions/april-2023-pricing-updates-for-businesses-based-in-europe', 'comment': 214}
+{'title': 'W3C re-launched as a public-interest non-profit organization', 'url': 'https://www.w3.org/blog/news/archives/9823', 'comment': 214}
+{'title': 'An astonishing regularity in student learning rate', 'url': 'https://psyarxiv.com/pxsfh/', 'comment': 209}
+{'title': 'Google layoffs Jan 20, 2023 – California WARN public records', 'url': 'https://airtable.cool/shrF23JdDHMQ3QDyw', 'comment': 208}
+{'title': 'When Discord is open in the background, NVIDIA card will not reach full speed', 'url': 'https://nvidia.custhelp.com/app/answers/detail/a_id/5443/~/when-discord-is-open-in-the-background%2C-graphics-card-memory-clocks-will-not', 'comment': 205}
+{'title': "Python's “disappointing” superpowers", 'url': 'https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/', 'comment': 194}
+{'title': 'The benefits of everything being a buffer in Emacs', 'url': 'https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer', 'comment': 194}
+{'title': 'Tell HN: Heroku deleted my database with no warning', 'url': 'None', 'comment': 191}
+{'title': 'Ask HN: Reject/ghost on all job applications with 8 YoE, what am I doing wrong?', 'url': 'None', 'comment': 191}
+{'title': 'Morning exposure to deep red light improves declining eyesight', 'url': 'https://www.nature.com/articles/s41598-021-02311-1', 'comment': 190}
+{'title': 'EU chat control law will ban open source operating systems', 'url': 'https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/', 'comment': 185}
+{'title': 'Data-Free Disneyland', 'url': 'https://www.optoutproject.net/data-free-disney/', 'comment': 177}
+{'title': '10TB portable SSDs on Amazon UK are scams', 'url': 'https://www.amazon.co.uk/s?k=portable+ssd+10tb&crid=3B5JCJDW98CMX&sprefix=portable+ssd+10tb%2Caps%2C149&ref=nb_sb_noss_1', 'comment': 177}
+{'title': 'We are ‘greening’ ourselves to extinction', 'url': 'https://www.aljazeera.com/opinions/2023/1/29/greening-ourselves-to-extinction', 'comment': 175}
+{'title': 'Sam Bankman-Fried accused of possible witness tampering [pdf]', 'url': 'https://storage.courtlistener.com/recap/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.50.0.pdf', 'comment': 174}
+{'title': 'Ask HN: Do you use JSON Schema? Help us shape its future stability guarantees', 'url': 'None', 'comment': 170}
+{'title': 'Nim and Go programs identified by Carbon Black as malware on Windows', 'url': 'https://forum.nim-lang.org/t/9850', 'comment': 170}
+{'title': 'America’s fever of workaholism is finally breaking', 'url': 'https://www.theatlantic.com/newsletters/archive/2023/01/american-rich-men-work-less-hours-workism/672895/', 'comment': 168}
+{'title': 'Write simply (2021)', 'url': 'http://www.paulgraham.com/simply.html', 'comment': 165}
+{'title': 'Yahoo is making a return to search', 'url': 'https://searchengineland.com/yahoo-is-making-a-return-to-search-392341', 'comment': 161}
+{'title': 'Tesla tells investors it’s being investigated by the Justice Department', 'url': 'https://arstechnica.com/cars/2023/01/tesla-confirms-justice-department-investigation-into-autopilot/', 'comment': 161}
+{'title': 'Hermes: An open-source document management system', 'url': 'https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system', 'comment': 156}
+{'title': 'Show HN: We built a developer-first open-source Zapier alternative', 'url': 'https://trigger.dev', 'comment': 153}
+{'title': 'LLM discourse needs more nuance', 'url': 'https://proofinprogress.com/posts/2023-02-01/the-ai-crowd-is-mad.html', 'comment': 152}
+{'title': 'Ask HN: LinkedIn sent me a cease and desist for my Chrome extension. Help?', 'url': 'None', 'comment': 144}
+{'title': 'A Cold War mystery: Why did Jimmy Carter save the space shuttle?', 'url': 'https://arstechnica.com/science/2016/07/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/', 'comment': 141}
+{'title': 'Go 1.20 released', 'url': 'https://go.dev/doc/go1.20', 'comment': 136}
+{'title': "Microsoft shows full-screen Windows 11 upgrade ads with two 'yes' buttons", 'url': 'https://www.neowin.net/news/microsoft-reportedly-shows-full-screen-windows-11-upgrade-ads-with-two-yes-buttons/', 'comment': 135}
+{'title': 'Show HN: ELI5 Powered by GPT-3', 'url': 'https://eli5.gg', 'comment': 133}
+{'title': 'ChatGPT is a bullshit generator but it can still be amazingly useful', 'url': 'https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but', 'comment': 131}
+{'title': 'Netlify acquires Gatsby', 'url': 'https://www.netlify.com/press/netlify-acquires-gatsby-inc-to-accelerate-adoption-of-composable-web-architectures/', 'comment': 129}
+{'title': 'Google Play Developer Antitrust Litigation', 'url': 'https://www.googleplaydevelopersettlement.com', 'comment': 126}
+{'title': 'I made a website for lonely people, and got >100 people to log their locations', 'url': 'https://www.lonelyworld.info/', 'comment': 126}
+{'title': 'Academia’s culture of overwork almost broke me, so I’m working to undo it', 'url': 'https://www.nature.com/articles/d41586-023-00241-8', 'comment': 124}
+{'title': 'Marko: An HTML-Based Language', 'url': 'https://markojs.com', 'comment': 124}
+{'title': "Sam Bankman-Fried's anonymous bail sponsors should be public, judge says", 'url': 'https://www.businessinsider.com/sam-bankman-fried-bail-sponsors-should-be-public-judge-says-2023-1', 'comment': 123}
+{'title': 'The curse of the corporate headshot', 'url': 'https://www.economist.com/business/2023/01/26/the-curse-of-the-corporate-headshot', 'comment': 120}
+{'title': 'Light from an ionized state of helium in a distant galaxy', 'url': 'https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130/', 'comment': 120}
+{'title': "FCC proposes $504k fine for broadcaster's misuse of Emergency Alert System tones", 'url': 'https://www.insideradio.com/free/fox-sports-admits-it-used-fake-eas-tones-on-radio-as-well-as-tv/article_6b18d2f0-9e1c-11ed-ab28-c7b167cea819.html', 'comment': 114}
+{'title': 'Modernizing C arrays for greater memory safety: a case study in the Linux kernel', 'url': 'https://people.kernel.org/kees/bounded-flexible-arrays-in-c', 'comment': 113}
+{'title': 'Show HN: Silly math games to make learning fun for K through 3rd grade', 'url': 'https://www.mindlygames.com', 'comment': 108}
+{'title': 'Ask HN: Does the HN commentariat have a reductive view of what a human being is?', 'url': 'None', 'comment': 107}
+{'title': 'How to smooth and spread A* paths for an RTS', 'url': 'https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608', 'comment': 103}
+{'title': 'The Rock 5B is not a Raspberry Pi killer–yet', 'url': 'https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet', 'comment': 101}
+{'title': 'The Cost of Shadow Work', 'url': 'https://www.ft.com/content/c2913c55-b9f5-44fa-b6dc-7cd7a2659925', 'comment': 97}
+{'title': "Some Ubuntu security patches are now behind 'Ubuntu Pro', a paid product", 'url': 'https://cloudisland.nz/@drV/109786183082845131', 'comment': 96}
+{'title': 'A URL shortener not shortening the URL but makes it look very dodgy', 'url': 'https://github.com/defaultnamehere/verylegit.link', 'comment': 95}
+{'title': 'Ask HN: What to do when someone clones your site?', 'url': 'None', 'comment': 93}
+{'title': 'Show HN: Working on a Zero-Knowledge Daily Journaling App', 'url': 'https://jumblejournal.org/', 'comment': 93}
+{'title': 'A Midcentury Bender: Revisiting Mad Men', 'url': 'https://theamericanscholar.org/a-midcentury-bender/', 'comment': 92}
+{'title': 'Berkeley Mono Ligatures Release', 'url': 'https://berkeleygraphics.com/public-affairs/bulletins/BT-002/', 'comment': 92}
+{'title': 'Proving Earth is a globe', 'url': 'https://mctoon.net/interesting/', 'comment': 91}
+{'title': 'India’s population will start to shrink sooner than expected (2021)', 'url': 'https://www.economist.com/asia/2021/12/02/indias-population-will-start-to-shrink-sooner-than-expected', 'comment': 91}
+{'title': 'DIY triple-screen laptop based on the framework', 'url': 'https://www.youtube.com/watch?v=aUKpY0o5tMo', 'comment': 88}
+{'title': 'Elementary OS 7', 'url': 'https://blog.elementary.io/os-7-available-now/', 'comment': 87}
+{'title': 'WebAssembly: Adding Python support to WASM language runtimes', 'url': 'https://wasmlabs.dev/articles/python-wasm32-wasi/', 'comment': 85}
+{'title': 'Automerge 2.0', 'url': 'https://automerge.org/blog/automerge-2/', 'comment': 85}
+{'title': 'Bitrex – the brand name of the bitterest substance in the world', 'url': 'https://www.bitrex.com/', 'comment': 85}
+{'title': 'Analog computing may be coming back', 'url': 'https://bellmar.medium.com/guess-what-analog-computing-may-be-coming-back-280f8c0329a8', 'comment': 82}
+{'title': 'Ask HN: Are you as passionate as you used to be?', 'url': 'None', 'comment': 82}
+{'title': 'Microsoft Teams Premium: powered by OpenAI’s GPT-3.5', 'url': 'https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/', 'comment': 81}
+{'title': 'Google Fi seemingly affected by latest T-Mobile data breach', 'url': 'https://9to5google.com/2023/01/30/google-fi-data-breach-tmobile/', 'comment': 81}
+{'title': 'Show HN: KnifeGeek – Online Database of Pocket Knives', 'url': 'https://www.knifegeek.io/', 'comment': 79}
+{'title': 'Discovery could extend battery life by replacing tape that causes self‑discharge', 'url': 'https://www.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge.html', 'comment': 79}
+{'title': 'Backblaze Drive Stats for 2022', 'url': 'https://www.backblaze.com/blog/backblaze-drive-stats-for-2022/', 'comment': 79}
+{'title': "It's not you, it's SQL", 'url': 'https://stack.convex.dev/not-sql', 'comment': 78}
+{'title': 'FYI: LLVM-project repo has exceeded GitHub upload size limit (2022)', 'url': 'https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293', 'comment': 77}
+{'title': 'We ship the most code on Friday', 'url': 'https://blog.railway.app/p/ship-on-friday', 'comment': 77}
+{'title': "Richard Bartle explains Web3's flaws at a Web3 conference. It doesn't go well", 'url': 'https://nwn.blogs.com/nwn/2023/02/richard-bartle-crypto-circle-blockchain-nft-virtual-worlds.html', 'comment': 76}
+{'title': 'Launch HN: Needl (YC S22) – Simple search across all your apps', 'url': 'None', 'comment': 74}
+{'title': 'Metal Without Mining', 'url': 'https://magratheametals.com', 'comment': 74}
+{'title': 'Tech Nation shutting down as UK government pulls key funding', 'url': 'https://sifted.eu/articles/tech-nation-shutting-down/', 'comment': 72}
+{'title': 'BioGPT: A language model pre-trained on large-scale biomedical literature', 'url': 'https://www.marktechpost.com/2023/01/31/microsoft-research-proposes-biogpt-a-domain-specific-generative-transformer-language-model-pre-trained-on-large-scale-biomedical-literature/', 'comment': 72}
+{'title': 'The Parallel Port', 'url': 'https://computer.rip/2023-01-29-the-parallel-port.html', 'comment': 72}
+{'title': 'Ask HN: Twitter was unanimously predicted to implode. Nothing happened. Why?', 'url': 'None', 'comment': 71}
+{'title': 'Ask HN: Fake Job Candidates?', 'url': 'None', 'comment': 71}
+{'title': 'Burning a NeXTCube (1993)', 'url': 'https://simson.net/ref/1993/cubefire.html', 'comment': 70}
+{'title': 'Ask HN: Are ChatGPT answers getting worse for anyone else?', 'url': 'None', 'comment': 70}
+{'title': "I've had bad luck with transparent hugepages on my Linux machines", 'url': 'https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck', 'comment': 68}
+{'title': 'The radical moral implications of luck in human life (2020)', 'url': 'https://www.vox.com/science-and-health/2018/8/21/17687402/kylie-jenner-luck-human-life-moral-privilege', 'comment': 67}
+{'title': 'Sourcehut will not blacklist the Go module mirror', 'url': 'https://sourcehut.org/blog/2023-01-09-gomodulemirror/', 'comment': 66}
+{'title': 'Show HN: Generate commit messages using GPT-3', 'url': 'https://github.com/markuswt/gpt-commit', 'comment': 66}
+{'title': 'US plans to fully cut off Huawei from chip suppliers', 'url': 'https://arstechnica.com/gadgets/2023/01/no-more-export-licenses-us-plans-to-fully-cut-off-huawei-from-chip-suppliers/', 'comment': 63}
+{'title': "The x86's Decimal Adjust after Addition (DAA) instruction", 'url': 'http://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html', 'comment': 62}
+{'title': 'Beta Testers required for my book-recommendation website', 'url': 'https://www.bookclub.ai/', 'comment': 60}
+{'title': 'We need less powerful languages (2015)', 'url': 'https://lukeplant.me.uk/blog/posts/less-powerful-languages/', 'comment': 57}
+{'title': 'Big Tech layoffs hit diversity and inclusion jobs hard', 'url': 'https://www.seattletimes.com/business/big-tech-layoffs-are-hitting-diversity-and-inclusion-jobs-hard/', 'comment': 55}
+{'title': 'Concordia students set to launch most powerful rocket developed by civilians', 'url': 'https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html', 'comment': 55}
+{'title': 'TigerBeetle raises $6.4M to power the future of financial accounting infra', 'url': 'https://tigerbeetle.com/blog/2023-01-30-series-seed-announcement/', 'comment': 55}
+{'title': 'DetectGPT: Zero-Shot Machine-Generated Text Detection', 'url': 'https://arxiv.org/abs/2301.11305', 'comment': 55}
+{'title': 'San Francisco is getting cold feet about self-driving car tests', 'url': 'https://www.newscientist.com/article/2356888-san-francisco-is-getting-cold-feet-about-self-driving-car-tests/', 'comment': 54}
+{'title': 'Prime Voice AI: AI speech software', 'url': 'https://beta.elevenlabs.io/', 'comment': 53}
+{'title': "Release engineering is exhausting so here's cargo-dist", 'url': 'https://blog.axo.dev/2023/02/cargo-dist', 'comment': 52}
+{'title': 'New mathematical model shows how the body regulates potassium', 'url': 'https://phys.org/news/2023-01-mathematical-body-potassium.html', 'comment': 52}
+{'title': 'Jamie: AI assistant that creates meeting summaries', 'url': 'https://www.meetjamie.ai/', 'comment': 51}
+{'title': 'Becoming the first DevRel at Tailscale', 'url': 'https://tailscale.dev/blog/weaponizing-hyperfocus', 'comment': 51}
+{'title': 'Cistercian Numerals', 'url': 'https://kottke.org/23/01/cistercian-numerals', 'comment': 50}
+{'title': 'Snap Quarterly Results Q4 2022 [pdf]', 'url': 'https://investor.snap.com/files/doc_financials/2022/q4/Q4%2722-Earnings-Slides.pdf', 'comment': 48}
+{'title': 'TWM − Tab Window Manager for the X Window System', 'url': 'https://www.x.org/releases/X11R7.6/doc/man/man1/twm.1.xhtml', 'comment': 47}
+{'title': 'Ask HN: How to self-promote at work?', 'url': 'None', 'comment': 47}
+{'title': 'Top-Left Magic Corner Desktop Paradigm', 'url': 'https://rentry.co/kvwze', 'comment': 46}
+{'title': "Gödel's solution to Einstein's field equations (2021)", 'url': 'https://www.privatdozent.co/p/godels-solution-to-einsteins-field', 'comment': 46}
+{'title': 'Outdoor Dining Is Doomed', 'url': 'https://www.theatlantic.com/health/archive/2023/01/restaurants-outdoor-dining-winter-covid/672904/', 'comment': 46}
+{'title': "We've Lost the Plot", 'url': 'https://www.theatlantic.com/magazine/archive/2023/03/tv-politics-entertainment-metaverse/672773/', 'comment': 46}
+{'title': 'Show HN: TunnlTo – Windows WireGuard split tunnel client built with Rust, Tauri', 'url': 'https://github.com/TunnlTo/desktop-app', 'comment': 44}
+{'title': 'Glen Canyon Revealed', 'url': 'https://www.hcn.org/issues/55.2/features-water-glen-canyon-revealed', 'comment': 44}
+{'title': 'Critical brain hypothesis: A physical theory for when the brain performs best', 'url': 'https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/', 'comment': 42}
+{'title': 'GraphGPT: Extrapolating knowledge graphs from unstructured text', 'url': 'https://github.com/varunshenoy/GraphGPT', 'comment': 42}
+{'title': 'Is Software Getting Worse?', 'url': 'https://stackoverflow.blog/2023/01/30/is-software-getting-worse/', 'comment': 41}
+{'title': "Superconductivity switches on and off in 'magic-angle' graphene", 'url': 'https://phys.org/news/2023-01-superconductivity-magic-angle-graphene.html', 'comment': 41}
+{'title': "Ask HN: Whats the worst job you've ever had?", 'url': 'None', 'comment': 41}
+{'title': 'Tech only has one strategy: Embrace, Extend, Extinguish', 'url': 'https://mrsteinberg.com/embrace-extend-extinguish/', 'comment': 41}
+{'title': 'Ask HN: How to ensure your water is safe to drink?', 'url': 'None', 'comment': 39}
+{'title': 'Show HN: Sudoku with 0 Bells or Whistles', 'url': 'None', 'comment': 39}
+{'title': 'PayPal lays off 7% of staff', 'url': 'https://newsroom.paypal-corp.com/2023-01-31-Update-on-Our-Transformation', 'comment': 38}
+{'title': 'The App Store does not protect consumers', 'url': 'https://lapcatsoftware.com/articles/crappstore.html', 'comment': 37}
+{'title': 'A manifesto on shower temperature control', 'url': 'https://benholmen.com/blog/shower-temperature-control/', 'comment': 36}
+{'title': 'Operation Luigi: How I hacked my friend without her noticing (2017)', 'url': 'https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing', 'comment': 36}
+{'title': 'Ask HN: What is it about compiling that is so time-consuming?', 'url': 'None', 'comment': 35}
+{'title': 'Show HN: Asdf Clone Written in Rust', 'url': 'None', 'comment': 35}
+{'title': 'Hypertext Emacs: You may not need org-mode', 'url': 'http://bjornwestergard.com/log/2022-04-19-hypertext-emacs.gmi', 'comment': 32}
+{'title': 'Ask HN: Do you have any experience asking to be down-leveled at $Corporate_Job?', 'url': 'None', 'comment': 31}
+{'title': 'Typed Lisp, A Primer (2019)', 'url': 'http://alhassy.com/TypedLisp', 'comment': 30}
+{'title': 'Some insects I found inside dried Turkish figs from Trader Joe’s', 'url': 'https://colinpurrington.com/2023/01/some-insects-i-found-inside-dried-turkish-figs-from-trader-joes/', 'comment': 30}
+{'title': 'Same.energy: Image Search by Similarity', 'url': 'https://same.energy', 'comment': 29}
+{'title': 'Tesla lost $140M trading Bitcoin in 2022', 'url': 'https://web3isgoinggreat.com/?id=tesla-lost-140-million-trading-bitcoin-in-2022', 'comment': 29}
+{'title': 'Firearms channels embrace Rumble as YouTube starts censoring videos', 'url': 'https://reclaimthenet.org/firearms-channels-embrace-rumble-as-youtube-censors/', 'comment': 29}
+{'title': 'S.F. apartment rents fell again', 'url': 'https://www.sfchronicle.com/sf/article/s-f-apartment-rents-fell-again-tech-layoffs-17757376.php', 'comment': 29}
+{'title': 'Choropleth maps with ggplot and R', 'url': 'https://socviz.co/maps.html', 'comment': 28}
+{'title': 'Forthcoming OpenSSL Releases 3.0.8, 1.1.1T and 1.0.2zg', 'url': 'https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html', 'comment': 27}
+{'title': 'Ask HN: How are you using ChatGPT to make your life better?', 'url': 'None', 'comment': 27}
+{'title': 'Ask HN: Best Linux distro for a young kid’s first computer?', 'url': 'None', 'comment': 25}
+{'title': "America's worsening return on health investment", 'url': 'https://www.axios.com/2023/01/31/worsening-return-health-investment', 'comment': 25}
+{'title': 'Driving 100 Miles in an EV Is Now More Expensive Than in an ICE', 'url': 'https://jalopnik.com/driving-100-miles-in-an-ev-is-now-more-expensive-than-i-1850031874', 'comment': 25}
+{'title': 'Impossible Foods Plans to Lay Off About 20% of Workers', 'url': 'https://www.bloomberg.com/news/articles/2023-01-30/impossible-foods-plans-to-lay-off-about-20-of-employees', 'comment': 25}
+{'title': 'Ask HN: Getting back into an IC role as a manager', 'url': 'None', 'comment': 24}
+{'title': 'Show HN: DocAsker – Use LLMs to ask documentation questions', 'url': 'https://www.docasker.com/', 'comment': 24}
+{'title': 'Show HN: Deploy Button for GPT-3 API Back Ends', 'url': 'https://www.steamship.com/build/prompt-apis', 'comment': 23}
+{'title': 'It should be okay to just read headlines', 'url': 'https://mukdde.substack.com/p/why-it-should-be-okay-to-just-read', 'comment': 23}
+{'title': "Open source implementation of Google's MusicLM in PyTorch", 'url': 'https://github.com/lucidrains/musiclm-pytorch', 'comment': 22}
+{'title': 'Ask HN: I got 1M of downloads for my app,someone would like to be my cofounder?', 'url': 'None', 'comment': 22}
+{'title': 'Tiny radioactive capsule lost in Australian outback found', 'url': 'https://www.theguardian.com/australia-news/2023/feb/01/tiny-radioactive-capsule-lost-in-australian-outback-found-by-side-of-1400km-stretch-of-road', 'comment': 22}
+{'title': 'Why does it feel like Amazon is making itself worse?', 'url': 'https://nymag.com/intelligencer/2023/01/why-does-it-feel-like-amazon-is-making-itself-worse.html', 'comment': 22}
+{'title': 'The Law Does Not Require Legalese', 'url': 'https://writing.kemitchell.com/2023/01/30/Law-Does-Not-Require-Legalese', 'comment': 21}
+{'title': 'Ask HN: Are tech layoffs related to developments in AI?', 'url': 'None', 'comment': 21}
+{'title': 'SimulaVR FPGA Image Processing Pipeline', 'url': 'https://simulavr.com/blog/fpga-image-processing-pipeline/', 'comment': 21}
+{'title': 'Automatic, AI-generated interview notes by Metaview', 'url': 'https://www.metaview.ai/notes', 'comment': 20}
+{'title': 'Generating Platonic Solids in C++ (2021)', 'url': 'https://www.danielsieger.com/blog/2021/01/03/generating-platonic-solids.html', 'comment': 20}
+{'title': 'Ask HN: How did you connect with passionate people?', 'url': 'None', 'comment': 19}
+{'title': 'Intel Slashes CEO Pay by 25% as Part of Companywide Cuts', 'url': 'https://www.bloomberg.com/news/articles/2023-02-01/intel-cuts-pay-across-company-to-preserve-cash-for-investment', 'comment': 19}
+{'title': 'AI Generated Seinfeld runs 24/7 on Twitch', 'url': 'https://www.twitch.tv/watchmeforever', 'comment': 18}
+{'title': 'Ask HN: Is it still safe to use Stripe?', 'url': 'None', 'comment': 18}
+{'title': 'GPTMinus1 – Fool OpenAIs AI Detector by Randomly Replacing Words', 'url': 'https://gptminus1.vercel.app/', 'comment': 18}
+{'title': 'Hypermedia Clients', 'url': 'https://htmx.org/essays/hypermedia-clients/', 'comment': 18}
+{'title': 'GNU Radio in a Direct-RF World [video]', 'url': 'https://archive.org/details/youtube-7N27o-DpQZM', 'comment': 17}
+{'title': 'The difference between speaking and thinking', 'url': 'https://www.theatlantic.com/technology/archive/2023/01/chatgpt-ai-language-human-computer-grammar-logic/672902/', 'comment': 17}
+{'title': 'Wake Up, America: China Is Overtaking the United States in Innovation Capacity', 'url': 'https://itif.org/publications/2023/01/23/wake-up-america-china-is-overtaking-the-united-states-in-innovation-capacity/', 'comment': 17}
+{'title': 'Differences Between iOS and Android Mastodon Clients', 'url': 'https://daringfireball.net/2023/01/meanwhile_over_in_androidtown', 'comment': 16}
+{'title': 'Information Theory, Inference, and Learning Algorithms (2003)', 'url': 'https://inference.org.uk/itila/book.html', 'comment': 16}
+{'title': 'C++ Neural Network in a Weekend (2020)', 'url': 'https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/', 'comment': 16}
+{'title': 'Did Ancient Egypt have a pigeon problem?', 'url': 'https://www.atlasobscura.com/articles/ancient-egypt-pigeon-problem', 'comment': 16}
+{'title': 'Combobulate: Structured Movement and Editing with Tree-Sitter', 'url': 'https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter', 'comment': 15}
+{'title': "Forget 'quiet quitting': High-income men are openly cutting their work hours", 'url': 'https://www.businessinsider.in/policy/economy/news/forget-quiet-quitting-high-income-men-are-openly-cutting-their-work-hours-more-than-their-coworkers/articleshow/97490985.cms', 'comment': 15}
+{'title': 'PayPal to lay off 7% of its workforce, about 2,000 employees', 'url': 'https://www.reuters.com/technology/paypal-lay-off-7-its-workforce-2023-01-31/', 'comment': 15}
+{'title': "AMD is 'undershipping' chips to keep CPU, GPU prices elevated", 'url': 'https://www.pcworld.com/article/1499957/amd-is-undershipping-chips-to-keep-cpu-gpu-prices-elevated.html', 'comment': 15}
+{'title': 'A New Lower Bound in the ABC Conjecture', 'url': 'https://arxiv.org/abs/2301.11056', 'comment': 14}
+{'title': 'Mozilla concludes that JPEG-XL is not for them', 'url': 'https://github.com/mozilla/standards-positions/issues/522', 'comment': 14}
+{'title': 'A Stick Chart from the Marshall Islands (2016)', 'url': 'https://www.sapiens.org/culture/stick-chart-marshall-islands/', 'comment': 14}
+{'title': 'Ask HN: Why did Google threaten its own business by publishing the GPT paper?', 'url': 'None', 'comment': 14}
+{'title': 'Tuning into brainwave rhythms speeds up learning in adults', 'url': 'https://www.cam.ac.uk/stories/brainwavelearning', 'comment': 13}
+{'title': 'Bethesda’s Redfall needs to be online for single-player mode', 'url': 'https://arstechnica.com/gaming/2023/02/single-player-redfall-still-requires-a-persistent-online-connection/', 'comment': 13}
+{'title': 'Professor Edgerton’s Atomic Camera (2006)', 'url': 'https://www.damninteresting.com/curio/rapatronic-nuclear-photographs/', 'comment': 13}
+{'title': 'Ask HN: What to do when PayPal disables your account for no reason?', 'url': 'None', 'comment': 13}
+{'title': 'Interop 2023: continuing to improve the web for developers', 'url': 'https://web.dev/interop-2023/', 'comment': 13}
+{'title': "If serotonin isn't linked to depression, why do SSRIs even work?", 'url': 'https://erikhoel.substack.com/p/if-serotonin-isnt-linked-to-depression', 'comment': 13}
+{'title': 'Ask HN: What GIF would you want on a shirt?', 'url': 'None', 'comment': 13}
+{'title': 'Are we done with the CV gap taboo?', 'url': 'https://www.bbc.com/worklife/article/20230127-are-we-done-with-the-cv-gap-taboo', 'comment': 12}
+{'title': 'Bleach Is Toxic, but Plenty of Americans Are Still Drinking It', 'url': 'https://www.bloomberg.com/news/articles/2023-02-01/drinking-bleach-is-deadly-why-are-some-americans-still-consuming-mms', 'comment': 12}
+{'title': 'Their Children Are Their Retirement Plans', 'url': 'https://www.nytimes.com/2023/01/21/business/retirement-immigrant-families.html', 'comment': 12}
+{'title': 'Towards A Token-Free Future In NLP (2022)', 'url': 'https://peltarion.com/blog/data-science/towards-a-token-free-future-in-nlp', 'comment': 12}
+{'title': 'The army of maths prodigies who helped Brighton conquer the transfer market', 'url': 'https://uk.sports.yahoo.com/news/revealed-200-maths-prodigies-help-070000511.html', 'comment': 12}
+{'title': 'Gawker Is Shutting Down', 'url': 'https://variety.com/2023/digital/news/gawker-shutting-down-1235509262/', 'comment': 11}
+{'title': 'Ask HN: Would I be stupid to give up a big tech job?', 'url': 'None', 'comment': 11}
+{'title': 'Workday Cuts 3% of Employees', 'url': 'https://www.cnbc.com/2023/01/31/workday-lays-off-employees-but-will-grow-head-count.html', 'comment': 11}
+{'title': 'Where will all the laid off tech workers go?', 'url': 'https://www.vox.com/recode/2023/1/31/23579841/tech-worker-layoffs-industry-startups', 'comment': 11}
+{'title': 'Responsibility: Consequences Flow Towards Power', 'url': 'https://tidyfirst.substack.com/p/responsibility', 'comment': 11}
+{'title': 'History of Lisp Parentheses (2019)', 'url': 'https://github.com/shaunlebron/history-of-lisp-parens', 'comment': 11}
+{'title': 'U/Ubuntu/Ubuntu/Ubuntu/Ubuntu/Ubuntu/Ubuntu/Ubuntu/Ubuntu/Ubuntu/Ubuntu/project/', 'url': 'http://archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/project/', 'comment': 11}
+{'title': 'Ask HN: Are browser bookmarks dead? What alternative(s) do you use?', 'url': 'None', 'comment': 11}
+{'title': 'Float Compression 3: Filters', 'url': 'https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/', 'comment': 10}
+{'title': 'Stereogram: A split-screen platformer in a broken world', 'url': 'https://managore.itch.io/stereogram', 'comment': 10}
+{'title': 'Canadian team discovers power-draining flaw in most laptop and phone batteries', 'url': 'https://www.cbc.ca/news/canada/nova-scotia/battery-power-laptop-phone-research-dalhousie-university-1.6724175', 'comment': 10}
+{'title': 'Back at Google, Cofounder Sergey Brin Just Filed His First Code Request in Years', 'url': 'https://www.forbes.com/sites/richardnieva/2023/01/31/sergey-brin-code-request-lamda/', 'comment': 10}
+{'title': 'HubSpot to cut 500 jobs, or 7% of its workforce', 'url': 'https://www.bizjournals.com/boston/news/2023/01/31/hubspot-to-cut-500-jobs-or-7-of-its-workforce.html', 'comment': 10}
+{'title': 'Netlify Acquires Gatsby, Its Struggling Jamstack Competitor', 'url': 'https://thenewstack.io/netlify-acquires-gatsby-its-struggling-jamstack-competitor/', 'comment': 10}
+{'title': 'Hide your books to avoid felony charges, Florida schools tell teachers', 'url': 'https://www.washingtonpost.com/education/2023/01/31/florida-hide-books-stop-woke-manatee-county-duval-county-desantis/', 'comment': 10}
+{'title': 'Show HN: AI Cover Letter Writer', 'url': 'https://tally.work/', 'comment': 9}
+{'title': 'Show HN: HealthPlanExplorer.com: Search & parse insurance plan MRF Files', 'url': 'https://www.healthplanexplorer.com/', 'comment': 9}
+{'title': 'ChatGPT Extension for VSCode', 'url': 'https://github.com/mpociot/chatgpt-vscode', 'comment': 9}
+{'title': "An elephant survived a 10M jump from Wuppertal's suspension railway in 1950", 'url': 'https://www.outdooractive.com/en/story/bergisches-land/the-elephant-that-jumped-out-of-a-suspension-railway-/26795022/', 'comment': 9}
+{'title': 'Serving Files in Python: How FastAPI Failed Us', 'url': 'https://medium.com/@alsadi/secret-sauce-is-zero-copy-single-context-switching-b749bd614dca', 'comment': 9}
+{'title': 'Helios, HashiCorp’s New Design System', 'url': 'https://www.hashicorp.com/blog/introducing-helios-hashicorp-s-new-design-system', 'comment': 9}
+{'title': 'Ask HN: Recommendations for building websites as an independent consultant', 'url': 'None', 'comment': 9}
+{'title': 'Google Laid Off Head of Mental Health and Wellbeing', 'url': 'https://www.businessinsider.com/google-layoffs-mental-health-and-wellbeing-director-jobs-workers-tech-2023-1', 'comment': 9}
+{'title': 'S3 will automatically block public access and disable ACL for new buckets', 'url': 'https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/', 'comment': 9}
+{'title': 'Show HN: PromptLayer – Track, debug, and maintain GPT prompts in prod', 'url': 'https://promptlayer.com/?hn', 'comment': 8}
+{'title': 'Fast, Optimal, Any-Angle Pathfinding (Polyanya)', 'url': 'https://research.monash.edu/en/publications/compromise-free-pathfinding-on-a-navigation-mesh', 'comment': 8}
+{'title': 'Ask HN: As a SaaS company, how do you manage your single-tenant deployments?', 'url': 'None', 'comment': 8}
+{'title': "Ask HN: What's the best way to organize a company's engineering wiki?", 'url': 'None', 'comment': 8}
+{'title': 'Ask HN: How do we unionize tech?', 'url': 'None', 'comment': 8}
+{'title': 'Reducing Go execution tracer overhead with frame pointer unwinding', 'url': 'https://blog.felixge.de/reducing-gos-execution-tracer-overhead-with-frame-pointer-unwinding/', 'comment': 8}
+{'title': 'The Food Expiration Dates You Should Follow', 'url': 'https://www.nytimes.com/article/expiration-dates.html', 'comment': 8}
+{'title': 'Flame: A small language model for spreadsheet formulas', 'url': 'https://arxiv.org/abs/2301.13779', 'comment': 8}
+{'title': "GPT-3-generated parody of 'Seinfeld' is streaming on an infinite loop", 'url': 'https://mashable.com/article/seinfeld-neverending-ai-episode', 'comment': 7}
+{'title': 'Layoffs broke big tech elite college hiring pipeline', 'url': 'https://www.wired.com/story/layoffs-broke-big-techs-elite-college-hiring-pipeline/', 'comment': 7}
+{'title': 'Curl’s use of many CI services', 'url': 'https://daniel.haxx.se/blog/2023/02/01/curls-use-of-many-ci-services/', 'comment': 7}
+{'title': 'Show HN: GPT-3 generated Hacker News summaries in the style of n-gate.com', 'url': 'https://ailef.tech/2023/01/31/gpt-3-generated-hacker-news-summaries-in-the-style-of-n-gate-com/', 'comment': 7}
+{'title': 'Netflix Unveils First Details of New Anti-Password Sharing Measures', 'url': 'https://thestreamable.com/news/confirmed-netflix-unveils-first-details-of-new-anti-password-sharing-measures', 'comment': 7}
+{'title': "Market headed for a 'tinderbox-timebomb' worse than the 1929 crash", 'url': 'https://markets.businessinsider.com/news/stocks/stock-market-crash-recession-debt-bubble-1929-black-swan-fund-2023-1', 'comment': 7}
+{'title': 'Making Our Hearts Sing', 'url': 'https://daringfireball.net/2023/02/making_our_hearts_sing', 'comment': 7}
+{'title': 'Nursing home owners drained cash while residents deteriorated, filings suggest', 'url': 'https://text.npr.org/1139783599', 'comment': 7}
+{'title': "Towards a Modern Web Stack (Ian 'Hixie' Hickson)", 'url': 'https://accounts.google.com/ServiceLogin?continue=https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/preview&amp;dsh=S-184152828:1675268317749309&amp;flowEntry=ServiceLogin&amp;followup=https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/preview&amp;ifkv=AWnogHegeZW9fXvI96qayA9snJIV1D2msE5L35t9Bews9WyQsABGUoYynvMtOLgAhmdS60518mdTSQ&amp;ltmpl=docs&amp;nojavascript=1&amp;osid=1&amp;service=wise', 'comment': 6}
+{'title': 'How Apple is organized for innovation', 'url': 'https://hbr.org/2020/11/how-apple-is-organized-for-innovation', 'comment': 6}
+{'title': 'Ask HN: How to build an image search service?', 'url': 'None', 'comment': 6}
+{'title': 'Lebanon to devalue currency by 90% on Feb. 1, central bank chief says', 'url': 'https://www.reuters.com/markets/currencies/lebanon-devalue-currency-by-90-feb-1-cbank-chief-says-2023-01-31/', 'comment': 6}
+{'title': 'Microsoft upgrades Defender to lock down Linux devices for their own good', 'url': 'https://www.theregister.com/2023/01/31/microsoft_defender_linux/', 'comment': 6}
+{'title': 'Ask HN: Can you talk about something besides AI for a day?', 'url': 'None', 'comment': 6}
+{'title': 'OpenQNX Source (2007)', 'url': 'https://github.com/vocho/openqnx/blob/master/trunk/lib/c/1/open.c', 'comment': 5}
+{'title': "Was this Brazilian major app bypassing Apple's location privacy on iOS?", 'url': 'https://notes.ghed.in/posts/2023/ifood-bypassing-ios-privacy-location/', 'comment': 5}
+{'title': "Dun and Bradstreet (Apple's verification service) admits to selling all PII", 'url': 'https://twitter.com/RaemondBW/status/1620505351614509056', 'comment': 5}
+{'title': 'Britain the only G7 economy forecast to shrink in 2023', 'url': 'https://www.theguardian.com/business/2023/jan/31/britain-only-g7-economy-expected-shrink-2023-imf', 'comment': 5}
+{'title': 'How computer vision is changing agriculture in 2023', 'url': 'https://voxel51.com/blog/how-computer-vision-is-changing-agriculture-in-2023/', 'comment': 5}
+{'title': 'GitHub just broken Homebrew, Bazel, Spack and Conan package managers', 'url': 'https://github.com/bazel-contrib/SIG-rules-authors/issues/11', 'comment': 5}
+{'title': "Mysterious 'whirlpool' appears in the night sky above Hawaii", 'url': 'https://www.bbc.co.uk/news/av/world-us-canada-64458511', 'comment': 5}
+{'title': 'Infinite partial sumsets in the primes', 'url': 'https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/', 'comment': 5}
+{'title': 'AI-gen voice firm clamps down after 4chan exploits celebrity sound-alikes', 'url': 'https://www.vice.com/en/article/dy7mww/ai-voice-firm-4chan-celebrity-voices-emma-watson-joe-rogan-elevenlabs', 'comment': 5}
+{'title': 'Destroy All Monsters (2006)', 'url': 'https://www.thebeliever.net/destroy-all-monsters/', 'comment': 5}
+{'title': 'Swiss Ad for national alarm test', 'url': 'https://www.youtube.com/watch?v=edIoYg4MEho', 'comment': 5}
+{'title': 'What the ancient bog bodies knew', 'url': 'https://www.nytimes.com/2023/01/30/science/archaeology-bogs-mummies.html', 'comment': 4}
+{'title': 'Ask HN: Best Contemporary SF Books', 'url': 'None', 'comment': 4}
+{'title': 'You are correct, 6+5 is equal to 12. My apologies for the mistake', 'url': 'https://www.emergentmind.com/posts/what-is-6-5', 'comment': 4}
+{'title': 'Ask HN: Can LLVM “compile” back to programming language?', 'url': 'None', 'comment': 4}
+{'title': 'Coinbase wins against SEC lawsuit claiming it sold tokens illegally', 'url': 'https://www.reuters.com/technology/coinbase-wins-dismissal-lawsuit-claiming-it-sold-unregistered-securities-2023-02-01/', 'comment': 4}
+{'title': 'Google Fi hack victim had Coinbase, 2FA app hijacked by hackers', 'url': 'https://techcrunch.com/2023/02/01/google-fi-hack-victim-had-coinbase-2fa-app-hijacked-by-hackers/', 'comment': 4}
+{'title': 'Sam Bankman-Fried tried to influence witness through Signal, DOJ alleges', 'url': 'https://www.cnbc.com/2023/01/27/sam-bankman-fried-tried-to-influence-witness-through-signal-doj.html', 'comment': 4}
+{'title': 'The State of WebAssembly 2022-2023', 'url': 'https://platform.uno/blog/the-state-of-webassembly-2022-and-2023/', 'comment': 4}
+{'title': 'WD Launches Dual-Actuator 20TB HDDs with SATA SSD-Like Throughput', 'url': 'https://www.tomshardware.com/news/western-digital-unveils-dual-actuator-hdds', 'comment': 4}
+{'title': 'A fairy-like robot flies by the power of wind and light', 'url': 'https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html', 'comment': 4}
+{'title': 'The Last Boeing 747 Leaves the Factory', 'url': 'https://www.nytimes.com/2023/01/31/business/last-boeing-747-plane.html', 'comment': 4}
+{'title': 'Amazon Begs Employees Not to Leak Corporate Secrets to ChatGPT', 'url': 'https://futurism.com/the-byte/amazon-begs-employees-chatgpt', 'comment': 4}
+{'title': "I'm Done with Standard Notes: Why I'm Abandoning Standard Notes", 'url': 'https://old.reddit.com/r/selfhosted/comments/10oz4pl/im_done_with_standard_notes_why_im_abandoning/', 'comment': 4}
+{'title': 'Ask HN: How do you backup your database?', 'url': 'None', 'comment': 4}
+{'title': 'The Computer That Will Change Everything – Chicago Magazine', 'url': 'https://www.chicagomag.com/chicago-magazine/february-2023/the-computer-that-will-change-everything/', 'comment': 3}
+{'title': 'IEEE Medal of Honor Goes to Vint Cerf', 'url': 'https://spectrum.ieee.org/2023-ieee-medal-of-honor', 'comment': 3}
+{'title': 'Ask HN: What web games are you building?', 'url': 'None', 'comment': 3}
+{'title': 'Most Appliance Manufacturers Won’t Give the Public Repair Info', 'url': 'https://www.ifixit.com/News/71502/most-appliance-manufacturers-wont-give-the-public-repair-information-pirg-and-ifixit-find', 'comment': 3}
+{'title': 'Honda to start producing new hydrogen fuel cell system co-developed with GM', 'url': 'https://www.reuters.com/business/autos-transportation/honda-start-producing-new-hydrogen-fuel-cell-system-co-developed-with-gm-2023-02-02/', 'comment': 3}
+{'title': 'My Printer Is Extorting Me', 'url': 'https://www.theatlantic.com/technology/archive/2023/02/home-printer-digital-rights-management-hp-instant-ink-subscription/672913/', 'comment': 3}
+{'title': 'Ask HN: Developers, what have you learned from product managers?', 'url': 'None', 'comment': 3}
+{'title': 'Microsoft Studio 343 Industries Undergoing Reorganization of Halo Game Franchise', 'url': 'https://www.bloomberg.com/news/articles/2023-01-31/microsoft-studio-343-industries-undergoing-reorganization-of-halo-game-franchise', 'comment': 3}
+{'title': 'AWS DeepLens End of Life', 'url': 'https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-end-of-life.html', 'comment': 3}
+{'title': 'Chinese PlugX Malware Hidden in Your USB Devices?', 'url': 'https://unit42.paloaltonetworks.com/plugx-variants-in-usbs/', 'comment': 3}
+{'title': 'Cars are rewiring our brains to ignore all the bad stuff about driving', 'url': 'https://www.theverge.com/2023/1/31/23579510/car-brain-motornormativity-study-ian-walker', 'comment': 3}
+{'title': 'Tell HN: GitHub does not allow to remove the payment method', 'url': 'None', 'comment': 3}
+{'title': 'Celebrities Who Endorsed Crypto, NFTs in Legal Crosshairs After Investor Losses', 'url': 'https://www.wsj.com/articles/celebrities-who-endorsed-crypto-nfts-land-in-legal-crosshairs-after-investor-losses-11675097150', 'comment': 3}
+{'title': 'Vast Maya Kingdom Is Revealed in Guatemalan Jungle', 'url': 'https://www.wsj.com/articles/vast-maya-kingdom-is-revealed-in-guatemalan-jungle-11675082088', 'comment': 3}
+{'title': "Doom's Most Mysterious Glitch Finally Solved After 30 Years", 'url': 'https://www.youtube.com/watch?v=T_5ZYJBgQyM', 'comment': 2}
+{'title': 'Judge Is Said to Let Meta’s Virtual Reality Deal Move Forward', 'url': 'https://www.nytimes.com/2023/02/01/technology/meta-within-deal-ftc.html', 'comment': 2}
+{'title': 'The Internet Loves an Extremophile', 'url': 'https://www.theatlantic.com/ideas/archive/2023/01/internet-youtube-podcast-guru-influencers-andrew-tate/672867/', 'comment': 2}
+{'title': 'Show HN: Supabase for Embeddings', 'url': 'https://github.com/another-ai/embedbase', 'comment': 2}
+{'title': 'Anker finally comes clean about its Eufy security cameras', 'url': 'https://www.theverge.com/23573362/anker-eufy-security-camera-answers-encryption', 'comment': 2}
+{'title': 'My First Recession', 'url': 'https://gadi.fm/posts/recession/', 'comment': 2}
+{'title': 'Tell HN: Zoominfo Renewal Clause', 'url': 'None', 'comment': 2}
+{'title': 'Seagate Confirms 30TB+ HAMR HDDs in Q3, Envisions 50TB Drives in a Few Years', 'url': 'https://www.anandtech.com/show/18733/seagate-confirms-30tb-hamr-hdds-in-q3-envisions-50tb-drives-in-a-few-years', 'comment': 2}
+{'title': 'Anker admits compromised security of Eufy cameras', 'url': 'https://www.macrumors.com/2023/01/31/anker-eufy-camera-security/', 'comment': 2}
+{'title': 'Why Meta’s Yann LeCun Is an AI GodFather and Why ChatGPT3 Is Not Revolutionary', 'url': 'https://www.forbes.com/sites/cindygordon/2023/01/27/why-yann-lecun-is-an-ai-godfather-and-why-chatgpt3-is-not-revolutionary/', 'comment': 2}
+{'title': 'Confessions of a Slaughterhouse Worker', 'url': 'https://www.bbc.com/news/stories-50986683', 'comment': 2}
+{'title': 'Facebook killed users batteries, worker claims in lawsuit', 'url': 'https://nypost.com/2023/01/28/facebook-fires-worker-who-refused-to-do-negative-testing-awsuit/', 'comment': 2}
+{'title': 'Apple should be required to let iPhone users sideload apps, Biden admin says', 'url': 'https://arstechnica.com/tech-policy/2023/02/apple-should-be-required-to-let-iphone-users-sideload-apps-biden-admin-says/', 'comment': 2}
+{'title': 'Faze Clan falls from $725M SPAC to penny stock in 6 months', 'url': 'https://kotaku.com/faze-clan-rain-apex-rug-wall-street-meme-stock-spac-1850054401', 'comment': 2}
+{'title': 'Meta shutting down its most popular VR game', 'url': 'https://www.roadtovr.com/meta-echo-vr-shut-down-announcement-ready-at-dawn/', 'comment': 2}
+{'title': 'Intel slashes wages, bonuses after disastrous quarterly results', 'url': 'https://www.oregonlive.com/silicon-forest/2023/02/intel-slashes-wages-bonuses-after-disastrous-quarterly-results.html', 'comment': 2}
+{'title': 'Optimizing Redis’ Default Compiler Flags', 'url': 'https://redis.com/blog/optimizing-redis-compiler-flags/', 'comment': 2}
+{'title': 'Hybrid Search and Learning-to-Rank', 'url': 'https://www.pinecone.io/learn/metarank/', 'comment': 2}
+{'title': 'Tell HN: Oracle Cloud is shutting down free instances', 'url': 'None', 'comment': 2}
+{'title': 'Caffeine levels in High Street coffee vary, tests find', 'url': 'https://www.bbc.co.uk/news/business-64472214', 'comment': 2}
+{'title': 'Mass. Prisoners Could Choose Between Freedom and Their Organs', 'url': 'https://www.levernews.com/mass-prisoners-could-choose-between-freedom-and-their-organs/', 'comment': 2}
+{'title': 'Guinness World Record for longest line-of-sight photograph', 'url': 'https://beyondrange.wordpress.com/2016/08/03/pic-de-finestrelles-pic-gaspard-ecrins-443-km/', 'comment': 2}
+{'title': 'Ask HN: Who wants to be fired (February 2023)', 'url': 'None', 'comment': 2}
+{'title': 'Anti-insect laser gun turrets designed by Osaka University', 'url': 'https://japantoday.com/category/tech/anti-insect-laser-gun-turrets-designed-by-osaka-university-expected-to-work-on-roaches-too', 'comment': 2}
+{'title': 'Peter Thiel: Address and Q&A – Oxford Union', 'url': 'https://www.youtube.com/watch?v=fQ4rc7npiXQ', 'comment': 2}
+{'title': 'EVs catch fire far less often than gas-powered cars, firefighters need to adapt', 'url': 'https://www.vox.com/the-highlight/2023/1/17/23470878/tesla-fires-evs-florida-hurricane-batteries-lithium-ion', 'comment': 2}
+{'title': 'Facebook-parent Meta announces $40B stock buyback', 'url': 'https://www.cnbc.com/2023/02/01/facebook-parent-meta-announces-40-billion-stock-buyback.html', 'comment': 2}
+{'title': 'Tesla ‘spontaneously’ bursts into flames on California highway', 'url': 'https://www.latimes.com/california/story/2023-01-30/la-me-tesla-fire-spontaneous-california', 'comment': 2}
+{'title': 'A browser extension to bypass article paywalls locally without a cloud service', 'url': 'https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean', 'comment': 2}
+{'title': 'Is It Forensics or Is It Junk Science?', 'url': 'https://www.propublica.org/article/understanding-junk-science-forensics-criminal-justice', 'comment': 2}
+{'title': "Mysterious 'whirlpool' appears in the night sky above Hawaii", 'url': 'https://www.bbc.com/news/av/world-us-canada-64458511', 'comment': 2}
+{'title': 'Cardboard box demand plunging at rates unseen since the Great Recession', 'url': 'https://www.freightwaves.com/news/cardboard-box-demand-plunging-at-rates-unseen-since-the-great-recession', 'comment': 2}
+{'title': 'OpenAI once wanted to save the world. Now it’s chasing profit', 'url': 'https://www.nzz.ch/english/openai-once-wanted-to-save-the-world-now-its-chasing-profit-ld.1722910', 'comment': 2}
+{'title': 'KeePass disputes vulnerability allowing stealthy password theft', 'url': 'https://www.bleepingcomputer.com/news/security/keepass-disputes-vulnerability-allowing-stealthy-password-theft/', 'comment': 2}
+{'title': 'Tag Systems', 'url': 'https://buttondown.email/hillelwayne/archive/tag-systems/', 'comment': 2}
+{'title': 'Court in Italy rules in favour of children who do not want to see grandparents', 'url': 'https://www.theguardian.com/world/2023/feb/01/italy-court-rules-children-not-obliged-to-see-grandparents', 'comment': 1}
+{'title': 'OpenAI to Offer ChatGPT Subscription Plan for $20 a Month', 'url': 'https://www.wsj.com/articles/openai-to-offer-chatgpt-monthly-subscription-plan-11675284555', 'comment': 1}
+{'title': 'Show HN: 3 Clicks, 3 Seconds, 3 Steps – The Future of Process Management', 'url': 'None', 'comment': 1}
+{'title': 'Hitchmap: Like Yelp, but for Hitchhiking Spots', 'url': 'https://hitchmap.com', 'comment': 1}
+{'title': 'I just published my Python AI book', 'url': 'https://leanpub.com/pythonai', 'comment': 1}
+{'title': 'Mammals That Live Together Live Longer', 'url': 'https://www.scientificamerican.com/article/mammals-that-live-together-live-longer/', 'comment': 1}
+{'title': 'Ask HN: Who Is Not Hiring?', 'url': 'None', 'comment': 1}
+{'title': 'When does the brain operate at peak performance?', 'url': 'https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/', 'comment': 1}
+{'title': "Konami's Creative MSX Team", 'url': 'https://www.youtube.com/watch?v=NzdvCqGzu08', 'comment': 1}
+{'title': 'Upstart to Lay Off 365 Employees, 20% of Staff', 'url': 'https://www.marketwatch.com/story/upstart-to-lay-off-365-employees-20-of-staff-271675176017', 'comment': 1}
+{'title': 'The Website That Wants You to Kill Yourself – and Won’t Die', 'url': 'https://www.motherjones.com/politics/2023/02/kiwi-farms-die-drop-cloudflare-chandler-trolls/', 'comment': 1}
+{'title': "Datadog's commitment to OpenTelemetry and the open source community", 'url': 'https://www.datadoghq.com/blog/datadog-supports-opentelemetry-open-source/', 'comment': 1}
+{'title': 'Declassified nuclear test videos are utterly mesmerizing, terrifying (2017)', 'url': 'https://arstechnica.com/gaming/2017/03/these-recently-declassified-nuclear-test-videos-are-utterly-mesmerizing-terrifying/', 'comment': 1}
+{'title': 'HN dataset in BigQuery stopped updating on 2022-11-16', 'url': 'https://issuetracker.google.com/issues/261579123', 'comment': 1}
+{'title': 'Machine learning spots 8 potential technosignatures', 'url': 'https://www.space.com/machine-learning-seti-technosignatures', 'comment': 1}
+{'title': 'Investors snapping up Colorado River water rights, betting on a scarce resource', 'url': 'https://www.cbsnews.com/news/new-york-investors-snapping-up-colorado-river-water-rights-betting-big-on-an-increasingly-scarce-resource/', 'comment': 1}
+{'title': 'Oracle Cloud now supports RHEL', 'url': 'https://www.oracle.com/news/announcement/red-hat-and-oracle-expand-collaboration-2023-01-31/', 'comment': 1}
+{'title': 'Army’s ‘information warfare’ unit monitored Covid lockdown critics', 'url': 'https://www.telegraph.co.uk/news/2023/01/29/armys-information-warfare-unit-monitored-covid-lockdown-critics/', 'comment': 1}
+{'title': 'WebAssembly: Suspending WASM Code for JavaScript Promises', 'url': 'https://v8.dev/blog/jspi', 'comment': 1}
+{'title': 'EU Weighs Proposal to Charge Data-Heavy Streamers for Telecom Upgrades', 'url': 'https://www.bloomberg.com/news/articles/2023-01-30/eu-mulls-ways-to-charge-data-heavy-steamers-for-telecom-upgrades', 'comment': 1}
+{'title': 'How New Ideas Arise', 'url': 'https://thereader.mitpress.mit.edu/how-new-ideas-arise/', 'comment': 1}
+{'title': 'Little Languages for Music (CLI as DAW, 1990) [pdf]', 'url': 'https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf', 'comment': 1}
+{'title': "Diffusion models output copyrighted images they've been trained on", 'url': 'https://twitter.com/Eric_Wallace_/status/1620449934863642624', 'comment': 1}
+{'title': 'Apache Apisix: Replaces Nginx in Lua', 'url': 'https://api7.ai/apisix-vs-nginx', 'comment': 1}
+{'title': 'PayPal to lay off 2k employees in coming weeks, about 7%', 'url': 'https://www.cnbc.com/2023/01/31/paypal-to-lay-off-2000-employees-in-coming-weeks-about-7percent-of-workforce.html', 'comment': 1}
+{'title': 'Johnson and Johnson’s Bankruptcy Didn’t Work', 'url': 'https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine', 'comment': 1}
+{'title': 'The Golden Age of Glossies', 'url': 'https://www.nybooks.com/online/2023/01/30/the-golden-age-of-glossies/', 'comment': 1}
+{'title': 'Carbonyl – Chromium running inside your terminal', 'url': 'https://github.com/fathyb/carbonyl', 'comment': 1}
+{'title': 'WSJ: The UNC Echo Chamber Fights Back', 'url': 'https://www.wsj.com/articles/university-of-north-carolina-school-of-civic-life-and-leadership-daily-tar-heel-board-of-trustees-11675203324', 'comment': 1}
+{'title': 'Worried you’re not normal? Don’t be – there’s no such thing', 'url': 'https://psyche.co/ideas/worried-youre-not-normal-dont-be-theres-no-such-thing', 'comment': 1}
+{'title': 'Tuning into brainwave rhythms speeds up learning in adults', 'url': 'https://www.eurekalert.org/news-releases/978133', 'comment': 1}
+{'title': 'Everything on Amazon Is an Ad', 'url': 'https://www.marketplacepulse.com/articles/everything-on-amazon-is-an-ad', 'comment': 1}
+{'title': 'Meta stock spikes despite earnings miss, as Facebook hits 2B users', 'url': 'https://www.marketwatch.com/story/meta-stock-spikes-despite-earnings-miss-as-facebook-hits-2-billion-users-for-first-time-and-sales-guidance-hits-11675286240', 'comment': 1}
+{'title': 'How to control your smart home without yelling at a dumb voice assistant', 'url': 'https://arstechnica.com/p3/', 'comment': 1}
+{'title': 'A Conceptual Guide to Transformers', 'url': 'https://benlevinstein.substack.com/p/a-conceptual-guide-to-transformers', 'comment': 1}
+{'title': 'Woman killed Instagram lookalike to try and fake her own death', 'url': 'https://www.theguardian.com/world/2023/jan/30/doppelganger-murder-ingolstadt-german-prosecutors-allege-woman-killed-lookalike-to-fake-death', 'comment': 1}
+{'title': 'Western Digital Launches Dual-Actuator 20TB Hard Drives', 'url': 'https://www.tomshardware.com/news/western-digital-unveils-dual-actuator-hdds', 'comment': 1}
+{'title': 'Yandex scrapes Google and other SEO learnings from source code leak', 'url': 'https://searchengineland.com/yandex-leak-learnings-392393', 'comment': 1}
+{'title': 'Blackbody Radiation Colour Palette', 'url': 'https://temperature.m15y.com/', 'comment': 1}
+{'title': 'VSMTP 2.1 is out and ready for production', 'url': 'None', 'comment': 1}
+{'title': 'TikTok’s CEO to Testify Before Congress in March', 'url': 'https://www.wsj.com/articles/tiktoks-chief-to-testify-before-congress-in-march-11675050606', 'comment': 1}
+{'title': 'The Supreme Court Considers the Algorithm', 'url': 'https://www.theatlantic.com/technology/archive/2023/02/supreme-court-section-230-twitter-google-algorithm/672915/', 'comment': 1}
+{'title': 'Show HN: Shoutouts.lol', 'url': 'https://shoutouts.lol/', 'comment': 1}
+{'title': 'Existing coal more expensive than new renewable energy', 'url': 'https://www.theguardian.com/us-news/2023/jan/30/us-coal-more-expensive-than-renewable-energy-study', 'comment': 1}
+{'title': 'Facebook reaches 2B active users', 'url': 'https://www.facebook.com/4/posts/our-community-keeps-growing-and-engagement-is-strong-across-facebook-instagram-w/10114966348908611/', 'comment': 1}
+{'title': 'Portability and the C Language', 'url': 'https://en.wikibooks.org/wiki/Portability_and_the_C_Language', 'comment': 1}
+{'title': 'PayPal to lay off 2k employees in coming weeks, about 7% of workforce', 'url': 'https://www.cnbc.com/2023/01/31/paypal-to-lay-off-2000-employees-in-coming-weeks-about-7percent-of-workforce.html', 'comment': 1}
+{'title': 'A deep-learning search for technosignatures from 820 nearby stars', 'url': 'https://www.nature.com/articles/s41550-022-01872-z', 'comment': 1}
+{'title': 'The new shock of Russia’s war in Ukraine: Genocide fatigue', 'url': 'https://thehill.com/opinion/international/3573034-the-new-shock-of-russias-war-in-ukraine-genocide-fatigue/', 'comment': 1}
+{'title': 'Should private platforms engage in censorship?', 'url': 'https://drewdevault.com/2023/01/30/2023-01-30-Should-private-platforms-engage-in-censorship.html', 'comment': 1}
+{'title': "Italy: The West's fastest shrinking nation", 'url': 'https://www.nytimes.com/2023/01/30/world/europe/italy-birthrate.html', 'comment': 1}
+{'title': "TurboTax's 20-Year Fight to Stop Americans from Filing Their Taxes", 'url': 'https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free', 'comment': 1}
+{'title': 'Lojban', 'url': 'https://en.wikipedia.org/wiki/Lojban', 'comment': 1}
+{'title': "Was Today's Poverty Determined in 1000B.C.? (2010)", 'url': 'https://archive.nytimes.com/economix.blogs.nytimes.com/2010/08/02/was-todays-poverty-determined-in-1000-b-c/', 'comment': 1}
+{'title': 'YC is hiring a product engineer to work on co-founder matching (SF/remote, US)', 'url': 'None', 'comment': 0}
+{'title': 'GitHub Support for Mastodon Profiles', 'url': 'https://hachyderm.io/@nova/109790530971147702', 'comment': 0}
+{'title': 'The DOS SDK', 'url': 'https://scalibq.wordpress.com/2023/02/01/the-dos-sdk/', 'comment': 0}
+{'title': 'Discovering unique microbes made easy with new software platform', 'url': 'https://phys.org/news/2023-01-unique-microbes-easy-software-platform.html', 'comment': 0}
+{'title': 'Erlang: The coding language that finance forgot', 'url': 'https://www.efinancialcareers.com/news/2022/01/elixir-jobs', 'comment': 0}
+{'title': 'Up to 29,000 unpatched QNAP storage devices are sitting ducks to ransomware', 'url': 'https://arstechnica.com/information-technology/2023/02/thousands-of-qnap-devices-remain-unpatched-against-9-8-severity-vulnerability/', 'comment': 0}
+{'title': 'Spritely Goblins 0.10 released, distributed programming for Guile and Racket', 'url': 'https://spritely.institute/news/spritely-goblins-v010-for-guile-and-racket.html', 'comment': 0}
+{'title': 'An Introduction to Linux Capabilities', 'url': 'https://earthly.dev/blog/intro-to-linux-capabilities/', 'comment': 0}
+{'title': 'The Food Pyramid Was Never About Keeping You Healthy', 'url': 'https://www.eviemagazine.com/post/the-food-pyramid-was-never-about-keeping-you-healthy-it-was-about-making', 'comment': 0}
+{'title': "Brevard Sheriff sued for 'Wheel of Fugitive' defamation", 'url': 'https://www.fox35orlando.com/news/brevard-sheriff-wayne-ivey-sued-for-wheel-of-fugitive-defamation', 'comment': 0}
+{'title': 'WatchMeForever', 'url': 'https://www.twitch.tv/watchmeforever', 'comment': 0}
+{'title': 'Vitamin D3 Supplementation for the Prevention of Flu-Like Illness', 'url': 'https://www.mdpi.com/2072-6643/15/1/180', 'comment': 0}
+{'title': "Phil's Old Radios", 'url': 'https://antiqueradio.org/welcome.htm', 'comment': 0}
+{'title': 'The OK Computer (Apple Lisa)', 'url': 'https://www.theverge.com/c/23570610/apple-lisa-computer-legacy', 'comment': 0}
+{'title': 'The joy, the pride and the burden of maintaining open source', 'url': 'https://locize.com/blog/maintaining-open-source/', 'comment': 0}
+{'title': 'Missing radioactive capsule found in Australia', 'url': 'https://www.bbc.com/news/world-australia-64481317', 'comment': 0}
+{'title': 'Nothing, Forever: 24/7 AI-generated faux-Seinfeld TV show', 'url': 'https://www.twitch.tv/watchmeforever', 'comment': 0}
+{'title': 'Three turbulent months at Foxconn’s iPhone factory', 'url': 'https://restofworld.org/2023/foxconn-iphone-factory-china/', 'comment': 0}
+{'title': 'Intercom’s New AI Features', 'url': 'https://www.intercom.com/blog/announcing-new-intercom-ai-features/', 'comment': 0}
+{'title': 'Water Heaters Have Battery Potential', 'url': 'https://spectrum.ieee.org/water-heaters-have-battery-potential', 'comment': 0}
+{'title': 'Missing radioactive capsule found on remote road in Australia', 'url': 'https://www.cnn.com/2023/02/01/australia/australia-radioactive-capsule-found-intl-hnk/index.html', 'comment': 0}
+{'title': 'Wi-Sun: An Lpwan Standard for Smart Cities, Smart Agriculture, Large Scale IoT', 'url': 'https://www.cnx-software.com/2022/09/04/wi-sun-lpwan-standard-smart-cities-smart-agriculture-large-scale-iot-deployments/', 'comment': 0}
+{'title': 'Gix: Literate Programming with Emacs Org-Mode and GNU/Guix', 'url': 'https://simfish.dev/projects/gix/', 'comment': 0}
+{'title': 'Fully static and “portable” LLVM toolchain and libs', 'url': 'https://twitter.com/rsms/status/1620554064227614726', 'comment': 0}
+{'title': "How a tiny radioactive capsule was found in Australia's vast outback", 'url': 'https://www.bbc.com/news/world-australia-64483271', 'comment': 0}
+{'title': 'Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale (2021) [pdf]', 'url': 'https://gts3.org/assets/papers/2021/bae:rudra.pdf', 'comment': 0}
+{'title': 'Seeing double? Building the same app in Shiny for R and Shiny for Python', 'url': 'https://nrennie.rbind.io/blog/seeing-double-shiny-python-r/?panelset4=python5&panelset=python&panelset5=python6&panelset6=r7', 'comment': 0}
+{'title': 'Pakistan degrades Wikipedia, warns of complete block over ‘sacrilegious’ content', 'url': 'https://techcrunch.com/2023/02/01/pakistan-degrades-wikipedia-warns-of-complete-block-over-sacrilegious-content/', 'comment': 0}
+{'title': "AMD revenue beats targets, Wall St relieved after Intel's grim outlook", 'url': 'https://www.reuters.com/technology/amd-forecasts-first-quarter-revenue-below-expectations-2023-01-31/', 'comment': 0}
+{'title': '‘Less clumpy’ universe may suggest existence of mysterious forces', 'url': 'https://www.theguardian.com/science/2023/jan/31/less-clumpy-universe-may-suggest-existence-of-mysterious-forces', 'comment': 0}
+{'title': 'Notes on the Fourth Dimension', 'url': 'https://publicdomainreview.org/essay/notes-on-the-fourth-dimension', 'comment': 0}
+{'title': '2019: Tips and tricks with implicit return in Nim', 'url': 'https://peterme.net/tips-and-tricks-with-implicit-return-in-nim.html', 'comment': 0}
+{'title': 'Apple’s Secrecy Violated Workers Rights, NLRB Finds', 'url': 'https://www.nytimes.com/2023/01/31/technology/apple-workers-rights.html', 'comment': 0}
+{'title': 'Mayo: The Free/Libre 3D CAD Files Viewer', 'url': 'https://librearts.org/2023/01/introducing-mayo-free-cad-files-viewer/', 'comment': 0}
+{'title': 'DoNotPay CEO Appears to Modify Donation Receipt After Being Called Out', 'url': 'https://www.techdirt.com/2023/01/30/donotpays-ceo-appears-to-modify-donation-receipt-after-being-called-out-on-unfulfilled-promise/', 'comment': 0}
+{'title': 'Scrollyvideo.js', 'url': 'https://www.diplateevo.com/scrollyvideo/', 'comment': 0}
+{'title': "Spritely's Goblins and How They're Gonna Steal the Future", 'url': 'https://arcades.agency/goblins.html', 'comment': 0}
+{'title': 'Awesome-web-scraping – List of libraries, tools and APIs for web scraping', 'url': 'https://github.com/lorien/awesome-web-scraping', 'comment': 0}
+{'title': 'Pushing Interop Forward in 2023', 'url': 'https://webkit.org/blog/13706/interop-2023/', 'comment': 0}
+{'title': 'Ford’s slashing Mustang Mach-E prices in latest volley in EV price wars', 'url': 'https://www.theverge.com/2023/1/30/23574610/ford-mustang-mach-e-slash-prices-ev-tax-credit', 'comment': 0}
+{'title': 'Project Enable – The Diné-English Biology Dictionary', 'url': 'https://enablenavajo.org/dine/', 'comment': 0}
+{'title': '‘Nothing, Forever’ Is an Endless ‘Seinfeld’ Episode Generated by AI', 'url': 'https://www.vice.com/en/article/qjkyxp/whats-the-deal-with-nothing-forever-a-21st-century-seinfeld-that-is-ai-generated', 'comment': 0}
+{'title': 'Birdsite blocks bird watcher after tweeting about birds', 'url': 'https://www.bbc.co.uk/news/uk-england-norfolk-64451977', 'comment': 0}
+{'title': 'Trellix patches 61,000 vulnerable open-source projects', 'url': 'https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-patches-vulnerable-open-source-projects.html', 'comment': 0}
+{'title': 'Ask HN: Is DragonflyBSD capable of actual cluster computing alread or is it WIP?', 'url': 'None', 'comment': 0}
+{'title': 'Low-Wage Workers Are Older Than You Think: 88 Percent of Workers Who Woul (Cont)', 'url': 'https://www.epi.org/publication/wage-workers-older-88-percent-workers-benefit/', 'comment': 0}
+{'title': 'Learning on tree architectures outperforms a convolutional feedforward network', 'url': 'https://www.nature.com/articles/s41598-023-27986-6', 'comment': 0}
+{'title': 'An Analog Computer May Solve the Biggest Mysteries in Physics', 'url': 'https://www.popularmechanics.com/science/a42714011/analog-quantom-simulator-solve-physics-mysteries/', 'comment': 0}
+{'title': 'Parser and Browser for the Recently Published Lisa Source Code (Pascal, Clascal)', 'url': 'https://github.com/rochus-keller/LisaPascal', 'comment': 0}
+{'title': 'Rivian Initiates a Second Round of Layoffs, Cutting 6% of Workforce', 'url': 'https://www.wsj.com/articles/rivian-initiates-a-second-round-of-layoffs-cutting-6-of-workforce-11675272668', 'comment': 0}
+{'title': 'Celsius: Final report from the examiner – lies, incompetence and Ponzi schemes', 'url': 'https://davidgerard.co.uk/blockchain/2023/02/01/celsius-network-final-report-from-the-examiner-lies-incompetence-and-ponzi-schemes/', 'comment': 0}
+{'title': "Why I'm using (Neo)Vim as a Data Engineer and Writer in 2023", 'url': 'https://www.sspaeti.com/blog/why-using-neovim-data-engineer-and-writer-2023/', 'comment': 0}
+{'title': 'Ross Index 2022: Top 20 Fastest Growing Open Source Startups', 'url': 'https://runacap.com/ross-index/', 'comment': 0}
+{'title': 'Can the Housing Market Stabilize?', 'url': 'https://www.apricitas.io/p/can-the-housing-market-stabilize', 'comment': 0}
+{'title': 'The CNET Fake News Fiasco, Autopilot, and the Uncanny Cognitive Valley', 'url': 'https://garymarcus.substack.com/p/the-cnet-fake-news-fiasco-autopilot', 'comment': 0}
+{'title': 'Samsung is planning to jump into the mixed reality headset race', 'url': 'https://www.washingtonpost.com/technology/2023/02/01/samsung-headset-qualcomm-google-android/', 'comment': 0}
+{'title': 'Linux 6.2 Performance Option Helps Extend the Longevity of Intel Skylake Era PCs', 'url': 'https://www.phoronix.com/review/linux62-intel-calldepth', 'comment': 0}
+{'title': 'Anker finally comes clean about its Eufy security cameras', 'url': 'https://www.theverge.com/23573362/anker-eufy-security-camera-answers-encryption', 'comment': 0}
+{'title': 'Splunk lays off 4% of its staff', 'url': 'https://www.marketwatch.com/story/splunk-to-lay-off-4-of-its-staff-in-latest-sign-of-software-cutbacks-11675260328', 'comment': 0}
+{'title': "How useful is OpenAI's new AI detection tool?", 'url': 'https://digitalepi.substack.com/p/how-useful-is-openais-new-ai-detection', 'comment': 0}
+{'title': 'NetApp ditches 8% of staff as customers put away wallets', 'url': 'https://www.theregister.com/2023/01/31/netapp_layoffs_8_percent/', 'comment': 0}
+{'title': 'Tesla still holds Bitcoin, but also took a $200M loss because of it', 'url': 'https://electrek.co/2023/01/31/tesla-bitcoin-million-loss/', 'comment': 0}
+{'title': 'Dollar Providers Biding Time, Betting on Collapse', 'url': 'https://www.realclearmarkets.com/articles/2023/01/27/dollar_providers_biding_time_betting_on_collapse_878163.html', 'comment': 0}
+{'title': 'Tell HN: Sites updating their U2F implementation, breaking login', 'url': 'None', 'comment': 0}
+{'title': "Understanding the x86's Decimal Adjust after Addition (DAA) instruction", 'url': 'https://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html', 'comment': 0}
+{'title': 'The road is too steep to start the installation', 'url': 'https://twitter.com/clare_eliza/status/1619819420465131520', 'comment': 0}
+{'title': 'The Opt Out Project', 'url': 'https://www.optoutproject.net/', 'comment': 0}
+{'title': 'The Internet Loves an Extremophile', 'url': 'https://www.theatlantic.com/ideas/archive/2023/01/internet-youtube-podcast-guru-influencers-andrew-tate/672867/', 'comment': 0}
+{'title': 'Boltzmann Brain', 'url': 'https://en.wikipedia.org/wiki/Boltzmann_brain', 'comment': 0}
+{'title': 'Sam Bankman-Fried Barred from Encrypted Messaging Apps, Talking to FTX Employees', 'url': 'https://www.bloomberg.com/news/articles/2023-02-01/bankman-fried-barred-from-message-apps-talking-to-ftx-employees', 'comment': 0}
+{'title': 'Chromebook SH1MMER exploit promises admin jailbreak', 'url': 'https://www.theregister.com/2023/01/30/chromebook_exploit_sh1mmer/', 'comment': 0}
+{'title': 'Apple’s focus on secrecy violated employee rights, US regulators find', 'url': 'https://arstechnica.com/tech-policy/2023/01/apples-focus-on-secrecy-violated-employee-rights-us-regulators-find/', 'comment': 0}
+{'title': 'Tag Systems', 'url': 'https://buttondown.email/hillelwayne/archive/tag-systems/', 'comment': 0}
+{'title': 'HTTP Archive (HAR) Format', 'url': 'https://w3c.github.io/web-performance/specs/HAR/Overview.html', 'comment': 0}
+{'title': 'Interop 2022: Outcomes', 'url': 'https://hacks.mozilla.org/2023/01/interop-2022-outcomes/', 'comment': 0}
+{'title': 'Digital Ocean global incident report for Cloud Control Panel', 'url': 'https://status.digitalocean.com/incidents/vfrjvgm4swhl', 'comment': 0}
+{'title': 'US Housing Market Prices Down 2.5% from June Peak', 'url': 'https://www.bloomberg.com/news/articles/2023-01-31/us-housing-market-cools-with-prices-down-2-5-from-peak-in-june', 'comment': 0}
+{'title': 'The Insane Engineering of the F-35B', 'url': 'https://www.youtube.com/watch?v=1lCOgFPtaZ4', 'comment': 0}
+{'title': "Feds Accused of Issuing 'Licenses to Steal' as Moving Company Scams Rise", 'url': 'https://www.newsweek.com/2023/02/10/feds-accused-issuing-licenses-steal-moving-company-scams-rise-1776939.html', 'comment': 0}
+{'title': 'Self-perceived facial attractiveness reduces mask-wearing intention', 'url': 'https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1084941/full', 'comment': 0}
+{'title': 'Previewing China’s Loongson 3A5000 with Performance Counters', 'url': 'https://chipsandcheese.com/2023/01/29/previewing-chinas-loongson-3a5000-with-performance-counters/', 'comment': 0}
+{'title': "Brain, OLAP cubes, {space, time, information}, Decision Cycles, Bloom's taxonomy", 'url': 'https://medium.com/@GV3RGB/7-ba21d0e28cd6', 'comment': 0}
+{'title': 'US Courts: Mango Markets Exploiter Not Protected by DAO', 'url': 'https://www.coindesk.com/business/2023/01/31/mango-markets-exploiter-thought-a-dao-protected-him-then-us-courts-showed-up/', 'comment': 0}
+{'title': 'Motornomativity: Social Norms Hide a Major Public Health Hazard', 'url': 'https://psyarxiv.com/egnmj', 'comment': 0}
+{'title': 'The press versus the president', 'url': 'https://www.cjr.org/special_report/trumped-up-press-versus-president-part-1.php', 'comment': 0}
+{'title': 'Yale honors Black girl, nine, wrongly reported to police over insect project', 'url': 'https://www.theguardian.com/education/2023/jan/31/yale-honors-9-year-old-girl-wrongly-reported-police', 'comment': 0}
+{'title': 'Meta Q4 Earnings', 'url': 'https://www.cnbc.com/2023/02/01/facebook-parent-meta-earnings-q4-2022.html', 'comment': 0}
+{'title': 'Samsung Issues Fix for Dying 980 Pro SSDs', 'url': 'https://www.tomshardware.com/news/samsung-980-pro-ssd-failures-firmware-update', 'comment': 0}
+{'title': 'Justice Department seeks Tesla automated driving documents', 'url': 'https://apnews.com/article/elon-musk-technology-accidents-business-f4f59a574cbe3fe2214c573ab81d47d3', 'comment': 0}
+{'title': 'Google Fi says hackers accessed customers’ information', 'url': 'https://techcrunch.com/2023/01/31/google-fi-customer-data-breach/', 'comment': 0}
+{'title': "Leaked Messages Show How CNET's Parent Company Sees AI-Generated Content", 'url': 'https://futurism.com/leaked-messages-cnet-red-ventures-ai', 'comment': 0}
+{'title': 'Coalton: Statically typed functional language that supercharges Common Lisp', 'url': 'https://github.com/coalton-lang/coalton', 'comment': 0}
+{'title': 'Show HN: Static blog generator in about 1.2KLOC', 'url': 'https://github.com/john-bokma/tumblelog', 'comment': 0}
+{'title': 'NDAs and Contracts That You Should Never Sign (2000)', 'url': 'https://www.joelonsoftware.com/2000/03/28/ndas-and-contracts-that-you-should-never-sign/', 'comment': 0}
+{'title': 'Rivian Lays Off 6% of Workforce', 'url': 'https://www.reuters.com/business/autos-transportation/ev-maker-rivian-cut-6-jobs-amid-price-war-internal-memo-2023-02-01/', 'comment': 0}
+{'title': 'Intel has killed off its open-source RISC-V dev environment', 'url': 'https://www.techradar.com/news/intel-has-killed-off-its-open-source-risc-v-dev-environment', 'comment': 0}
+{'title': "CockroachDB's MVCC range tombstones and generalized LSM range keys", 'url': 'https://www.cockroachlabs.com/blog/mvcc-range-tombstones/', 'comment': 0}
+{'title': 'Netflix and Wit Studio face pushback for AI-assisted short film', 'url': 'https://www.polygon.com/23581376/netflix-wit-studio-short-film-ai-controversy', 'comment': 0}
+{'title': 'Federal Reserve Slows Interest Rate Increases', 'url': 'https://www.nytimes.com/live/2023/02/01/business/fed-interest-rates-inflation', 'comment': 0}
+{'title': 'An Update on the Future of Echo VR', 'url': 'https://medium.com/@EchoGames/an-update-on-the-future-of-echo-vr-7f074dca1ed1', 'comment': 0}
+{'title': 'Petscii – A Character Set and a Creative Platform [pdf]', 'url': 'https://acris.aalto.fi/ws/portalfiles/portal/39040680/PETSCII_A_Character_Set_and_a_Creative_Platform.pdf', 'comment': 0}
+{'title': 'What Are Self-Sabotaging Habits and How to Fight Them', 'url': 'https://durmonski.com/self-improvement/self-sabotaging-habits/', 'comment': 0}
+{'title': 'AI-Generated Voice Firm Clamps Down After 4chan Makes Celebrity Voices for Abuse', 'url': 'https://www.vice.com/en/article/dy7mww/ai-voice-firm-4chan-celebrity-voices-emma-watson-joe-rogan-elevenlabs', 'comment': 0}
+{'title': 'Future of Memory Safety: Challenges and Recommendations [pdf]', 'url': 'https://digital-lab-wp.consumerreports.org/wp-content/uploads/2023/01/Memory-Safety-Convening-Report-.pdf', 'comment': 0}
+{'title': 'Ontario Utility Signs First Contract for Small Modular Reactor in Americas', 'url': 'https://www.world-nuclear-news.org/Articles/Alliance-signs-Canadian-SMR-contract?feed=feed', 'comment': 0}
+{'title': 'Cash App’s Performance Marketing Generated 190M Downloads', 'url': 'https://medium.com/scale-fanatics/how-cash-apps-performance-marketing-generated-190-million-downloads-eb8b7dab2af6', 'comment': 0}
